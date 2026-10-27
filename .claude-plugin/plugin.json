@@ -1,0 +1,8 @@
+{
+  "name": "gsn",
+  "version": "0.1.0",
+  "description": "gsonego's Claude Code skills: clarify, ship, review-copilot, top-issues.",
+  "author": { "name": "gsonego" },
+  "license": "MIT",
+  "repository": "https://github.com/gsonego/claude-skills"
+}

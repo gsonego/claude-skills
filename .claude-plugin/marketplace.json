@@ -1,0 +1,17 @@
+{
+  "name": "gsn",
+  "description": "Claude Code skills and mods by gsonego.",
+  "owner": { "name": "gsonego" },
+  "plugins": [
+    {
+      "name": "gsn",
+      "source": "./",
+      "description": "Skills: clarify (interactive Q&A), ship (commit, push, PR, merge), review-copilot, top-issues."
+    },
+    {
+      "name": "chat-checklist",
+      "source": { "source": "github", "repo": "gsonego/claude-chat-checklist" },
+      "description": "Per-chat side panel: checklist, pending items and decisions."
+    }
+  ]
+}
